@@ -18,6 +18,15 @@
 
 - - - -
 
+## Packages
+
+- Discord.Js (I have no clue how Discord.Js v12 and higher works.)
+- Discord.Py
+- Aoi.Js (Discord Bot String Based Package)
+- Express
+
+- - - -
+
 ## GitHub Description
 
 I, in any purpose, will not approve any or read any Git repo pull requests.
