@@ -1,10 +1,12 @@
 ## Welcome to LukeLiuKai's GitHub.
 
+
 Projects
 - - - -
 
 - Discord Server Nuked (Coded in Aoi.Js)
 - Discord OAuth Bot / Member BackUp Bot (**NOT INTENDED FOR ILLEGAL PURPOSES**)
+
 
 Programming Languages
 - - - -
@@ -15,12 +17,14 @@ Programming Languages
 - Java
 - TypeScript
 
+
 GitHub Description
 - - - -
 
 ```
 I, in any purpose, will not approve any or read any Git repo pull requests.
 ```
+
 
 About
 - - - -
