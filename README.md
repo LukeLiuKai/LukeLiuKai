@@ -4,8 +4,7 @@
 
 ## Projects
 
-- Discord Server Nuked (Coded in Aoi.Js)
-- Discord OAuth Bot / Member BackUp Bot (**NOT INTENDED FOR ILLEGAL PURPOSES**)
+- Soon*
 
 - - - -
 
